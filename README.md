@@ -1,6 +1,6 @@
 # budget_tracker
 
-A new Flutter project.
+A Flutter application built with stateful widget with Hive and also some crud functionality.
 
 ## Getting Started
 
